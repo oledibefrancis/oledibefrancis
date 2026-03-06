@@ -15,7 +15,7 @@ Software Engineer focused on mobile systems, backend services, and developer too
 
 ## About
 
-- Building: [foledibe.com](https://github.com/oledibefrancis/foledibe.com)
+- Building: [userem.site](https://userem.site)
 - Interests: Android, Java, CI/CD, and product-focused engineering
 - Open to: collaboration on practical engineering projects
 
@@ -38,6 +38,13 @@ Software Engineer focused on mobile systems, backend services, and developer too
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oledibefrancis&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oledibefrancis&layout=compact&hide_border=true)
 ![Contribution graph](https://ghchart.rshah.org/oledibefrancis)
+
+## What I'm Doing
+
+- Living in the future - Learning and building tools to make agentic engineering faster for everyone
+- Writing about AI workflows - Sharing my learnings on [userem.site](https://userem.site)
+- Rapid prototyping - Full apps in days, not months
+- Speaking at conferences - On vibe coding vs agentic engineering and the future of development
 
 ## Connect
 
