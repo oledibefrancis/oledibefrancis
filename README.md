@@ -1,6 +1,6 @@
 # Hi, I'm Francis Oledibe 👋
 
-Software Engineer focused on mobile systems, backend services, and developer tooling.
+Deep in vibe-coding mode, exploring ideas and building projects that become useful tools.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
