@@ -1,6 +1,6 @@
 # Hi, I'm Francis Oledibe 👋
 
-Deep in vibe-coding mode, exploring ideas and building projects that become useful tools.
+Deep in vibe-coding mode with AI, exploring ideas and building projects that become useful tools.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,16 +35,16 @@ Deep in vibe-coding mode, exploring ideas and building projects that become usef
 
 ## GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oledibefrancis&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oledibefrancis&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=oledibefrancis&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oledibefrancis&layout=compact&hide_border=true)
 ![Contribution graph](https://ghchart.rshah.org/oledibefrancis)
 
 ## What I'm Doing
 
-- Living in the future - Learning and building tools to make agentic engineering faster for everyone
-- Writing about AI workflows - Sharing my learnings on [userem.site](https://userem.site)
-- Rapid prototyping - Full apps in days, not months
-- Speaking at conferences - On vibe coding vs agentic engineering and the future of development
+- Living in the future - Building useful AI applications that make people's lives better
+- Writing about AI workflows - Sharing my learnings on [my website](https://userem.site)
+- Rapid prototyping - Building and shipping projects fast on [userem.site](https://userem.site)
+- Speaking at conferences - On tech and AI in general
 
 ## Connect
 
